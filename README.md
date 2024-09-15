@@ -8,6 +8,7 @@ On my GitHub profile, I plan to share the tools I develop and scripts that autom
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liviudaraban)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-green)](https://app.hackthebox.com/users/923329)<br>
 [![TryHackMe](https://img.shields.io/badge/TryHackme-red)](https://tryhackme.com/p/d0lf1)
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📊 GitHub Stats:
