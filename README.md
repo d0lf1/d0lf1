@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am currently a Senior Penetration Tester at Gerico Lab SRL, where I test the infrastructures of various clients and contribute to the company's red team efforts. My recent focus has been on Web Application Penetration Testing.  In addition, I'm an active Bug Bounty Hunter.
-
-On my GitHub profile, I plan to share the tools I develop and scripts that automate various Penetration Testing processes.
+As a Security Architect, I design and evaluate secure infrastructures for diverse clients, while actively contributing to our organization's red team operations. My expertise spans advanced assessments, with a recent emphasis on Web Application Penetration Testing.
+Additionally, I am an accomplished Bug Bounty Hunter, consistently identifying and reporting high-impact vulnerabilities.
+On my GitHub profile, I share custom tools and automation scripts I develop to streamline and enhance various penetration testing and security assessment processes."
 
 
 ## 🌐 Socials:
