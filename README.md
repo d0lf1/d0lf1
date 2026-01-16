@@ -5,7 +5,6 @@ On my GitHub profile, I share custom tools and automation scripts I develop to s
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liviudaraban)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-green)](https://app.hackthebox.com/users/923329)<br>
 [![TryHackMe](https://img.shields.io/badge/TryHackme-red)](https://tryhackme.com/p/d0lf1)
 
