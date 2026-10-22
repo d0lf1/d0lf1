@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Sito e contatti
+    url: https://ldsec.it
+    about: Contattami tramite ldsec.it
+  - name: Blog e writeup
+    url: https://blog.ldsec.it
+    about: I miei writeup e articoli di sicurezza
