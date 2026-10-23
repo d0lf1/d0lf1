@@ -1,22 +1,40 @@
-# 💫 About Me:
-As a Security Architect, I design and evaluate secure infrastructures for diverse clients, while actively contributing to our organization's red team operations. My expertise spans advanced assessments, with a recent emphasis on Web Application Penetration Testing.
-Additionally, I am an accomplished Bug Bounty Hunter, consistently identifying and reporting high-impact vulnerabilities.
-On my GitHub profile, I share custom tools and automation scripts I develop to streamline and enhance various penetration testing and security assessment processes."
+## Liviu Daraban — `d0lf1`
 
+Cyber Security Consultant, Penetration Tester and Red Team Lead. I design and
+assess secure infrastructure for clients and run offensive engagements — web
+application and network penetration testing, Active Directory and cloud attack
+paths, red teaming — and work across SIEM and incident response on the
+defensive side.
 
-## 🌐 Socials:
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-green)](https://app.hackthebox.com/users/923329)<br>
-[![TryHackMe](https://img.shields.io/badge/TryHackme-red)](https://tryhackme.com/p/d0lf1)
+This profile is where I publish the tooling and proof-of-concept exploits I
+build during assessments and CTFs.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=d0lf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=d0lf1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### What I do
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=d0lf1&label=Profile%20Views&icon=6&pretty=false" />
-</a>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Offensive security** — web app and network pentest, Active Directory, cloud (AWS), red team engagements.
+- **Defensive side** — SIEM, detection engineering, incident response.
+- **Research & writeups** — I document boxes and real-world bugs on [blog.ldsec.it](https://blog.ldsec.it).
+- **Open-source PoCs** — per-machine exploit code, released alongside the writeups.
+- **Speaking** — e.g. a [cybersecurity webinar](https://www.castellidellasapienza.it/corsi/webinarwebinar/webinar-25-settembre-2023-cybersecurity/) for Castelli della Sapienza (2023).
+
+### Recent proof-of-concepts — Hack The Box Season 11
+
+Companion exploit code to the writeups on blog.ldsec.it:
+
+- [htb-paperwork-poc](https://github.com/d0lf1/htb-paperwork-poc)
+- [htb-nimbus-poc](https://github.com/d0lf1/htb-nimbus-poc)
+- [htb-enigma-poc](https://github.com/d0lf1/htb-enigma-poc)
+- [htb-makesense-poc](https://github.com/d0lf1/htb-makesense-poc)
+
+### Elsewhere
+
+- Portfolio — https://ldsec.it
+- Blog & writeups — https://blog.ldsec.it
+- LinkedIn — https://www.linkedin.com/in/darabanliviu/
+- Email — liviudaraban@ldsec.it
+- Hack The Box — https://app.hackthebox.com/users/923329
+- TryHackMe — https://tryhackme.com/p/d0lf1
+
+### Stack
+
+Python and Bash for tooling and automation.
