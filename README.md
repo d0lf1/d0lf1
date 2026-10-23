@@ -42,6 +42,5 @@ Companion exploit code to the writeups on blog.ldsec.it:
 - Portfolio — https://ldsec.it
 - Blog & writeups — https://blog.ldsec.it
 - LinkedIn — https://www.linkedin.com/in/darabanliviu/
-- Email — liviudaraban@ldsec.it
 - Hack The Box — https://app.hackthebox.com/users/923329
 - TryHackMe — https://tryhackme.com/p/d0lf1
