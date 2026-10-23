@@ -26,6 +26,17 @@ Companion exploit code to the writeups on blog.ldsec.it:
 - [htb-enigma-poc](https://github.com/d0lf1/htb-enigma-poc)
 - [htb-makesense-poc](https://github.com/d0lf1/htb-makesense-poc)
 
+### Stats
+
+<div align="center">
+
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=d0lf1&show_icons=true&include_all_commits=true&count_private=false&hide_border=false&bg_color=000000&title_color=c8f53c&icon_color=c8f53c&text_color=b9bccb&border_color=1e2029" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0lf1&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=c8f53c&text_color=b9bccb&border_color=1e2029" />
+
+<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=d0lf1&background=000000&border=1e2029&stroke=1e2029&ring=c8f53c&fire=c8f53c&currStreakNum=eceef4&currStreakLabel=c8f53c&sideNums=eceef4&sideLabels=b9bccb&dates=80859a" />
+
+</div>
+
 ### Elsewhere
 
 - Portfolio — https://ldsec.it
@@ -34,7 +45,3 @@ Companion exploit code to the writeups on blog.ldsec.it:
 - Email — liviudaraban@ldsec.it
 - Hack The Box — https://app.hackthebox.com/users/923329
 - TryHackMe — https://tryhackme.com/p/d0lf1
-
-### Stack
-
-Python and Bash for tooling and automation.
