@@ -35,6 +35,8 @@ Companion exploit code to the writeups on blog.ldsec.it:
 
 <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=d0lf1&background=000000&border=1e2029&stroke=1e2029&ring=c8f53c&fire=c8f53c&currStreakNum=eceef4&currStreakLabel=c8f53c&sideNums=eceef4&sideLabels=b9bccb&dates=80859a" />
 
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/d0lf1/d0lf1/output/github-snake-dark.svg" />
+
 </div>
 
 ### Elsewhere
