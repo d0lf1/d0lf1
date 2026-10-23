@@ -1,7 +1,7 @@
 # Politica di sicurezza
 
-Questo è il repository del profilo GitHub di Liviu Daraban: una pagina di
-presentazione, non un servizio in produzione.
+Questo è il repository del mio profilo GitHub: una pagina di presentazione, non
+un servizio in produzione.
 
 ## Segnalare una vulnerabilità
 

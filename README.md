@@ -1,4 +1,4 @@
-## Liviu Daraban — `d0lf1`
+## `d0lf1`
 
 Cyber Security Consultant, Penetration Tester and Red Team Lead. I design and
 assess secure infrastructure for clients and run offensive engagements — web
